@@ -60,14 +60,14 @@
                       <td><h4>FitnessBerhad Gym  Club</h4></td>
                     </tr>
                     <tr>
-                      <td>5021 Wetzel Lane, Williamsburg</td>
+                      <td>Seri Serdang , Malaysia</td>
                     </tr>
                     
                     <tr>
-                      <td>Tel: 231-267-6011</td>
+                      <td>Tel: 018 - 2170162</td>
                     </tr>
                     <tr>
-                      <td >Email: support@perfectgym.com</td>
+                      <td >Email: fitnessberhad@mail.com</td>
                     </tr>
                   </tbody>
                 </table>
