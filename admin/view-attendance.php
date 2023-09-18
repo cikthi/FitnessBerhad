@@ -20,6 +20,7 @@ header('location:../index.php');
 <link rel="stylesheet" href="../css/matrix-media.css" />
 <link href="../font-awesome/css/fontawesome.css" rel="stylesheet" />
 <link href="../font-awesome/css/all.css" rel="stylesheet" />
+<link rel="icon" type="image/x-icon" href="../img/logo.png">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
 </head>
 <body>

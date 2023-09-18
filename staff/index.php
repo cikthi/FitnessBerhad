@@ -11,6 +11,7 @@ include('dbcon.php'); ?>
         <link rel="stylesheet" href="css/matrix-style.css" />
         <link rel="stylesheet" href="css/matrix-login.css" />
         <link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="../img/logo.png">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
 
     </head>
