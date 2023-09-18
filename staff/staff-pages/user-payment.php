@@ -72,20 +72,20 @@ while($row=mysqli_fetch_array($result)){
                 <table class="">
                   <tbody>
                   <tr>
-                      <td><img src="../img/gym-logo.png" alt="Gym Logo" width="175"></td>
+                      <td><img src="../img/logo.png" alt="Gym Logo" width="175"></td>
                     </tr>
                     <tr>
                       <td><h4>FitnessBerhad Gym  Club</h4></td>
                     </tr>
                     <tr>
-                      <td>5021  Wetzel Lane, Williamsburg</td>
+                      <td>Seri Serdang , Malaysia</td>
                     </tr>
                     
                     <tr>
-                      <td>Tel: 231-267-6011</td>
+                      <td>Tel: 018 - 2170162</td>
                     </tr>
                     <tr>
-                      <td >Email: support@perfectgym.com</td>
+                      <td >Email: fitnessberhad@mail.com</td>
                     </tr>
                   </tbody>
                 </table>
